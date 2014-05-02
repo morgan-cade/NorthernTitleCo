@@ -107,47 +107,9 @@
    Styles
    ========================================================================== */
 
-	header {
-		padding: 15rem 0;
+	.navbar {
+		margin-bottom: 0;
 	}
-
-	section#responsive {
-		padding: 5rem 0;
-	}
-	
-	.size {
-		padding: 0;
-	}
-	.size li {
-		float: left;
-		list-style-type: none;
-		border: 1px solid black;
-		padding: 2px;
-		min-width: 25px;
-		margin-right: 2px;
-		text-align: center;
-	}
-
-	.price {
-		font-size: 200%;
-		margin-bottom: 25px;
-	}
-
-	button {
-		background: none;
-		border: 1px solid black;
-		padding: 8px 25px;
-	}
-
-	.details {
-		ul {
-			list-style: square inside url('data:image/gif;base64,R0lGODlhBQAKAIABAAAAAP///yH5BAEAAAEALAAAAAAFAAoAAAIIjI+ZwKwPUQEAOw==');
-		}
-	}
-
-.about{
-		padding:8px;
-}
 
 
 
