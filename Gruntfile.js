@@ -13,6 +13,19 @@ module.exports = function(grunt) {
     concat: {
       dist: {
         src: [
+          'js/jquery.js',
+          'js/bootstrap/affix.js',
+          'js/bootstrap/alert.js',
+          'js/bootstrap/button.js',
+          'js/bootstrap/carousel.js',
+          'js/bootstrap/collapse.js',
+          'js/bootstrap/dropdown.js',
+          'js/bootstrap/tab.js',
+          'js/bootstrap/transition.js',
+          'js/bootstrap/scrollspy.js',
+          'js/bootstrap/modal.js',
+          'js/bootstrap/tooltip.js',
+          'js/bootstrap/popover.js',
           'js/plugins.js',
           'js/main.js'
           ],
